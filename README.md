@@ -1,6 +1,6 @@
 # Bi-FRN
 
-Code relaese for Bi-Directional Feature Reconstruction Network for Fine-grained Few-shot Image Classification. (TPAMI submission)
+Code relaese for Bi-Directional Feature Reconstruction Network for Fine-grained Few-shot Image Classification. (AAAI-2023 extension)
 
 ## Code environment
 
